@@ -1,7 +1,18 @@
 # Partial Alignment as Reward-Guided Sampling (PARGS)
 
-We will describe the detailed steps required to replicate the results for the summarization task in the "A Critical Look At Tokenwise
-Reward-Guided Text Generation" paper.
+We will describe the detailed steps required to replicate the results for our paper "A Critical Look At Tokenwise
+Reward-Guided Text Generation". Please refer to our paper [here](https://arxiv.org/abs/2406.07780) for more details.
+
+Please cite our paper if you use this code in your work.
+
+```
+@inproceedings{rashid2025critical,
+  title={A Critical Look At Tokenwise Reward-Guided Text Generation},
+  author={Rashid, Ahmad and Wu, Ruotian and Grosse, Julia and Kristiadi, Agustinus and Poupart, Pascal},
+  booktitle={COLM},
+  year={2025}
+}
+```
 
 ## Overview:
 1. Data preprocessing (Create partial sequences)
